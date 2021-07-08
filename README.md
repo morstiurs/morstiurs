@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @morstiurs
+- 👋 Hi, I’m rendy eka
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning git adn github
 - 💞️ I’m looking to collaborate on machine learning
